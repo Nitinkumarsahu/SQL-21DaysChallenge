@@ -17,6 +17,5 @@ simple concepts that become powerful when used thoughtfully.​
 # Day 1 - Solution
 
 ```sql
-SELECT DISTINCT service_name
-FROM services_weekly
-ORDER BY service_name;
+SELECT DISTINCT service
+FROM services_weekly;
