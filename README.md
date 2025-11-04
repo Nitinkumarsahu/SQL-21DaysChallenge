@@ -4,7 +4,6 @@ Welcome to my repository for the **IDC 21 Days SQL Challenge**!
 This repo contains all my solutions, notes, and learnings from the challenge — focused on improving SQL problem-solving skills through daily practice.
 
 ---
-<img src="https://raw.githubusercontent.com/Nitinkumarsahu/SQL-21DaysChallenge/refs/heads/main/WhatsApp%20Image%202025-11-04%20at%2017.40.01_1135bb4e.jpg">
 
 ## 📅 Challenge Overview
 
