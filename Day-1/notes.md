@@ -14,7 +14,6 @@ simple concepts that become powerful when used thoughtfully.​
 
 ---
 
-# Day 2
 # Day 1 - Solution
 
 ```sql
